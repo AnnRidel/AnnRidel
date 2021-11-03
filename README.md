@@ -1,5 +1,5 @@
 - 👋 Hi there!
-- Test Lead, https://www.linkedin.com/in/anna-kuznetsova-379622175/
+- Test Lead, www.linkedin.com/in/annrid
 - I’m currently learning at QA Guru https://qa.guru/
 - You can reach me annrid@yandex.com
 
